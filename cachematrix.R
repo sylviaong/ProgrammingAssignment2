@@ -1,7 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
+## By : SylviaOng
+## Date : 23 May 2015
+## Function for Matrix inversion - caching the inverse of a matrix rather than computing it repeatedly
 
-## Write a short comment describing this function
+## Make Cache Matrix
 
 makeCacheMatrix <- function(x = matrix()) {
 
